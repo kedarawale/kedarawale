@@ -1,11 +1,5 @@
 <div align="center">
-  
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kedarawale.kedarawale&"  />
-</div>
 
 ###
 
@@ -57,18 +51,6 @@ I am a passionate Data Scientist and Software Engineer pursuing a Master's in Co
 
 ###
 
-<h3 align="left">🚀 Featured Projects</h3>
-
-###
-
-<p align="left">
-1. <a href="https://github.com/kedarawale/Github-Chatbot">Github Chatbot</a> - AI-powered chatbot for interacting with GitHub repositories<br>
-2. <a href="https://github.com/kedarawale/ExamCraft-AI">ExamCraft AI</a> - AI-powered exam generator using LangChain and Google Gemini API<br>
-3. <a href="https://github.com/kedarawale/GeoSpatialScan">GeoSpatialScan</a> - Advanced spatial search algorithm using KD-trees
-</p>
-
-###
-
 <h3 align="left">📫 How to reach me</h3>
 
 ###
@@ -78,6 +60,11 @@ I am a passionate Data Scientist and Software Engineer pursuing a Master's in Co
 - <a href="https://www.linkedin.com/in/kedarawale" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  
+
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kedarawale.kedarawale&"  />
+</div>
+###
 </p>
 

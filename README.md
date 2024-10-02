@@ -11,7 +11,7 @@
 
 ###
 
-I am a passionate Data Scientist and Software Engineer pursuing a Master's in Computer Science at Florida State University. With a strong background in machine learning, big data analytics, and software development, I thrive on solving complex problems and creating innovative solutions. I'm currently expanding my expertise in Cloud Technologies and Machine Learning. In my free time, I enjoy working on AI-powered projects and contributing to open-source initiatives, always seeking to push the boundaries of technology and stay at the forefront of these emerging fields.</p>
+<p>I am a passionate Data Scientist and Software Engineer pursuing a Master's in Computer Science at Florida State University. With a strong background in machine learning, big data analytics, and software development, I thrive on solving complex problems and creating innovative solutions. I'm currently expanding my expertise in Cloud Technologies and Machine Learning. In my free time, I enjoy working on AI-powered projects and contributing to open-source initiatives, always seeking to push the boundaries of technology and stay at the forefront of these emerging fields.</p>
 
 ###
 
@@ -65,6 +65,5 @@ I am a passionate Data Scientist and Software Engineer pursuing a Master's in Co
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kedarawale.kedarawale&"  />
 </div>
-###
 </p>
 

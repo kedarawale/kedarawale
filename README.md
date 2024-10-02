@@ -78,7 +78,8 @@
 
 ###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kedarawale.kedarawale&"  />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=kedarawale.kedarawale&left_text=Unique%20Visitors" alt="Unique Visitors" />
 </div>
+
 </p>
 

@@ -1,17 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kedarawale" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/kedarawale" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
-  </a>
-</div>
+  
 
 ###
 
@@ -29,7 +17,7 @@
 
 ###
 
-I am a passionate Data Scientist and Software Engineer pursuing a Master's in Computer Science at Florida State University. With a strong background in machine learning, big data analytics, and software development, I thrive on solving complex problems and creating innovative solutions. I'm currently expanding my expertise in Cloud Technologies and Machine Learning. I'm particularly excited about the rapid advancements in Large Language Models (LLMs) and machine learning, and actively exploring their applications in various domains. In my free time, I enjoy working on AI-powered projects and contributing to open-source initiatives, always seeking to push the boundaries of technology and stay at the forefront of these emerging fields.- 🎓 I'm pursuing a Master's in Computer Science at Florida State University<br>- - 📚 I'm currently learning advanced algorithms and data science techniques<br>- ⚡ In my free time, I work on AI-powered projects and contribute to open-source</p>
+I am a passionate Data Scientist and Software Engineer pursuing a Master's in Computer Science at Florida State University. With a strong background in machine learning, big data analytics, and software development, I thrive on solving complex problems and creating innovative solutions. I'm currently expanding my expertise in Cloud Technologies and Machine Learning. In my free time, I enjoy working on AI-powered projects and contributing to open-source initiatives, always seeking to push the boundaries of technology and stay at the forefront of these emerging fields.</p>
 
 ###
 
@@ -52,7 +40,7 @@ I am a passionate Data Scientist and Software Engineer pursuing a Master's in Co
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
@@ -87,6 +75,9 @@ I am a passionate Data Scientist and Software Engineer pursuing a Master's in Co
 
 <p align="left">
 - Email: ka23l@fsu.edu<br>
-- LinkedIn: <a href="https://www.linkedin.com/in/kedarawale">linkedin.com/in/kedarawale</a><br>
+- <a href="https://www.linkedin.com/in/kedarawale" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  
 </p>
 

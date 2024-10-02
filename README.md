@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-<img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/images/aws-icon.png" height="40" alt="amazonwebservices logo"  />
+<img src="https://d1.awsstatic.com/icons/aws-icons/AWS-Cloud-alt_light-bg@4x.png" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />

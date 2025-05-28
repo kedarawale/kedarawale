@@ -11,14 +11,14 @@
 
 ###
 
-<p>Hello! I'm Kedar Awale, a Master's in Computer Science graduate from Florida State University. I hold a Bachelor's degree in Computer Engineering from Savitribai Phule Pune University, where I also earned an Honours Degree in Data Science. I enjoy turning ideas into software that is fast, reliable, and easy to use whether that means crafting clean APIs, building full‑stack web apps, or bringing machine‑learning models into production.
+<p> Hello! I'm Kedar Awale, a Master's in Computer Science graduate from Florida State University. I hold a Bachelor's degree in Computer Engineering from Savitribai Phule Pune University, where I also earned an Honours Degree in Data Science. I enjoy turning ideas into software that is fast, reliable, and easy to use whether that means crafting clean APIs, building full‑stack web apps, or bringing machine‑learning models into production.</p>
 
-My internships have ranged from full‑stack engineering at a recruiting startup to AI research that safeguards neural‑network models, giving me a balanced view of product development and research innovation. I value clear communication, steady iteration, and code that scales gracefully in the cloud. I’m now looking for software engineering roles where I can combine solid engineering practices with a passion for data‑driven solutions.
+<p> My internships have ranged from full‑stack engineering at a recruiting startup to AI research that safeguards neural‑network models, giving me a balanced view of product development and research innovation. I value clear communication, steady iteration, and code that scales gracefully in the cloud. I’m now looking for software engineering roles where I can combine solid engineering practices with a passion for data‑driven solutions. </p>
 
-Tech stack:
-Python, C++, JavaScript, Django, FastAPI, React, Node.js, PostgreSQL, MongoDB, AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, TensorFlow, PyTorch, scikit‑learn, Numpy, Pandas, Flask, LangGraph
+<p> Tech stack:
+Python, C++, JavaScript, Django, FastAPI, React, Node.js, PostgreSQL, MongoDB, AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, TensorFlow, PyTorch, scikit‑learn, Numpy, Pandas, Flask, LangGraph </p>
 
-I am actively looking for full time job opportunities as a Software Engineer. If you're interested in connecting or exploring opportunities for collaboration, feel free to reach out. Let's innovate, learn, and grow together!</p>
+<p> I am actively looking for full time job opportunities as a Software Engineer. If you're interested in connecting or exploring opportunities for collaboration, feel free to reach out. Let's innovate, learn, and grow together!</p>
 
 ###
 

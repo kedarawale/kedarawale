@@ -1,17 +1,9 @@
 <div align="center">
 
 
-###
-
-<h1 align="center">Hey there 👋, I'm Kedar Awale</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
 <div style="text-align: left;">
+  <h1>Hey there 👋, I'm Kedar Awale</h1>
+
   <h3>👩‍💻 About Me</h3>
 
   <p>Hello! I'm Kedar Awale, a Master's in Computer Science graduate from Florida State University. I hold a Bachelor's degree in Computer Engineering from Savitribai Phule Pune University, where I also earned an Honours Degree in Data Science. I enjoy turning ideas into software that is fast, reliable, and easy to use whether that means crafting clean APIs, building full‑stack web apps, or bringing machine‑learning models into production.</p>
@@ -24,8 +16,6 @@
   <p>I am actively looking for full time job opportunities as a Software Engineer. If you're interested in connecting or exploring opportunities for collaboration, feel free to reach out. Let's innovate, learn, and grow together!</p>
 </div>
 
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 

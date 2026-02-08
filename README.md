@@ -66,12 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedarawale&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
 
-###
-
-<h3 align="left">📫 How to reach me</h3>
-
-###
-
 
 ###
 
